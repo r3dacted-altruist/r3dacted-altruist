@@ -2,7 +2,7 @@
 found what needed to be found? know what it is?
 --->
 
-- 👋 Hi, I'm <b><u><i>the key to the problem i gave you</b></u></i>
+- 👋 Hi, The keyword you found is <b><u><i>the key to the problem i gave you</b></u></i>
 - 👀 I’m interested in ... <b>helping you</b> 
 - 💞️ I’m looking to collaborate on ... this hunt we're stuck doing 
 - 📫 How to add me ... <b>you don't.</b>
